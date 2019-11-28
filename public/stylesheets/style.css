@@ -1,0 +1,27 @@
+body{
+    background-image: url(music.jpg);
+    background-size: cover;
+    margin: 100px;
+}
+
+h1{
+    color:whitesmoke;
+}
+
+nav{
+    color: yellow;
+}
+.p1{
+padding: 30px;
+}
+
+.navbar-brand{
+     
+}
+
+.nav-link{
+    color:orangered;
+}
+nav{
+    background-color: lightgrey;
+}

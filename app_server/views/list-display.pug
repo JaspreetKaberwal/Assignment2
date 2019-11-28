@@ -1,0 +1,9 @@
+extends layout
+
+block content
+ h1= title
+ p "Welcome to the Music Store"
+ 
+ ul
+ each val in songs
+   li= val.x + ' - ' + val.genre
